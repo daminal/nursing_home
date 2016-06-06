@@ -1,0 +1,36 @@
+* {
+	max-width: 1000px;
+}
+body{
+	margin: 30px;
+}
+.row {
+	display: -webkit-flex;
+	display: flex;
+}
+img {
+	max-width: 250px;
+	margin: 20px;
+	margin-left : 50px;
+	margin-right: 50px;
+}
+.description{
+	max-width: 600px;
+}
+h1{
+	background-color: rgb(10, 70, 130);
+	color: white;
+	padding: 15px;
+}
+h2{
+	padding-bottom: 10px;
+	border-bottom: 2px solid #BBB;
+	margin-bottom: -5px;
+}
+.emphasis{
+	font-style: italic;
+	margin-bottom: -15px;
+}
+.description p {
+	margin: 10px;
+}
